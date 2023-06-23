@@ -17,7 +17,7 @@ bool isvalid(int arr[],int n,int k,int mid){
 class Solution 
 {
     public:
-    //Function to find minimum number of pages.
+    //Function to find minimum number of pages
     int findPages(int A[], int N, int M) 
     {
         int sum=0;
